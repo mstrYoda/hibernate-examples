@@ -5,4 +5,4 @@ This repository created for hibernate examples post on medium : https://medium.c
 
 It contains example usages of OneToMany, ManyToOne, BatchSize annotations and Join Fetch in jpql.
 
-Running for examples first you need to drop all tables from database. Then insert sample datas for first time, and run main again.
+Running examples for first you need to drop all tables from database. Then insert sample datas for first time, and run main again.
